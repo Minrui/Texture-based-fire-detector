@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/drawable/Pause-Normal-icon.png</file>
+        <file>res/drawable/Play-Normal-icon.png</file>
+        <file>res/drawable/Stop-Normal-Red-icon.png</file>
+    </qresource>
+</RCC>
